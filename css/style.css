@@ -1,0 +1,51 @@
+body {
+  padding: 5vw;
+  margin: 0;
+}
+
+body img {
+  width: 15vw;
+  height: 15vw;
+}
+
+.cpu_area {
+  width: 15vw;
+  height: 100vw;
+  float: left;
+  text-align: center;
+}
+
+.cpu_area img {
+  width: 15vw;
+  height: 15vw;
+  display: inline-block;
+}
+
+.card_area {
+  width: 60vw;
+  height: 70vw;
+  float: left;
+  text-align: center;
+  padding-top: 5vw;
+}
+
+.table_cell {
+  display: inline-block;
+}
+
+table img{
+  width: 6.5vw;
+  height: 10vw;
+}
+
+.my_area {
+  width: 15vw;
+  height: 100vw;
+  float: left;
+  text-align: center;
+}
+
+.my_area img {
+  width: 15vw;
+  height: 15vw;
+}
