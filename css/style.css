@@ -1,5 +1,5 @@
 body {
-  padding: 5vw;
+  padding: 2vw;
   margin: 0;
 }
 
@@ -13,20 +13,19 @@ body img {
   height: 100vw;
   float: left;
   text-align: center;
+  padding-left: 8vw;
 }
 
 .cpu_area img {
-  width: 15vw;
-  height: 15vw;
   display: inline-block;
 }
 
 .card_area {
-  width: 60vw;
-  height: 70vw;
+  width: 50vw;
+  height: 35vw;
   float: left;
   text-align: center;
-  padding-top: 5vw;
+  padding-top: 2vw;
 }
 
 .table_cell {
@@ -34,18 +33,56 @@ body img {
 }
 
 table img{
-  width: 6.5vw;
-  height: 10vw;
+  width: 5vw;
+  height: 8vw;
 }
 
+.set_button {
+  width: 50vw;
+  float: left;
+  text-align: center;
+  display: block;
+}
+
+.set_button button:hover {
+  background-color: #FFCC00;
+  cursor: pointer;
+}
+
+.start {
+  display: inline-block;
+  margin: 1vw;
+}
+
+.start button {
+  font-size: 3vw;
+  border: 1px solid #000000;
+  text-align: center;
+  padding: 0 4vw;
+  margin: 0;
+}
+
+.reset {
+  display: inline-block;
+  margin: 1vw;
+}
+
+.reset button {
+  font-size: 3vw;
+  border: 1px solid #000000;
+  text-align: center;
+  padding: 0 4vw;
+  margin: 0;
+}
 .my_area {
   width: 15vw;
   height: 100vw;
   float: left;
   text-align: center;
+  padding-right: 8vw;
 }
 
 .my_area img {
-  width: 15vw;
-  height: 15vw;
+  display: inline-block;
 }
+
