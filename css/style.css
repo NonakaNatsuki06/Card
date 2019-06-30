@@ -21,18 +21,13 @@ body img {
 }
 
 .card_area {
-  width: 50vw;
+  width: 35vw;
   height: 35vw;
   float: left;
-  text-align: center;
-  padding-top: 2vw;
+  padding: 2vw 7.5vw 0 7.5vw;
 }
 
-.table_cell {
-  display: inline-block;
-}
-
-table img{
+.card_area img{
   width: 5vw;
   height: 8vw;
 }
